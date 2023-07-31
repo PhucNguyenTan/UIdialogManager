@@ -1,0 +1,64 @@
+# Unity generates
+/[Tt]emp
+/[Ll]ibrary
+/[Oo]bj
+/[Uu]ser[Ss]ettings
+/*.sln
+/*.csproj
+/*.unityproj
+/*.booproj
+
+# Visual Studio / MonoDevelop generates
+*.userprefs
+
+# Default build target
+/Build/webgl
+/Build/xcode
+/Build/build.apk
+/Build/build.app
+/Build/build.exe
+
+# enish Bridge config
+/Assets/Resources/web-config.txt
+/Assets/Resources/web-config.txt.meta
+
+# Others
+CriAtom/gateway_Cache/
+CriAtom/gateway_Backup/
+.vs/
+socialpost.png
+gateway-client.v12.suo
+UpgradeLog.htm
+Assets/Editor/Beebyte/Obfuscator/ObfuscatorOptions.asset.meta
+
+/Assets/AdventureEditing/
+/Assets/AdventureEditing.meta
+
+*.suo
+changelist.txt
+S3/
+build/ReferenceViewer/
+Logs/
+
+# Jetbrains IDE
+.idea
+Assets/Plugins/Editor/JetBrains/
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor.meta
+
+# MacOS trash
+.Ds_Store
+
+editor.log
+prev.commit
+commonresources.manifest
+Upload/
+Capture/
+Assets/AmplifyShaderEditor/
+config.txt
+missinglog.txt
+ResourcesList.txt
+Assets/AmplifyShaderEditor.meta
+MemoryCaptures/
+
+.vsconfig
